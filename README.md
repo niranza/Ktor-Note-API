@@ -1,4 +1,4 @@
-# Ktor-Server-for-Note-App-
+# Ktor-Note-API
 custom built Ktor server
 the API integrates:
 * Postman for testing end points
